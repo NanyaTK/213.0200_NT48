@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/bin/Release/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/obj/Release/net8.0/compressed/ny23qd3mc7.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/obj/Release/net8.0/scopedcss/bundle/213.0201_NT48.styles.css",
+      "PackagePath": "staticwebassets/213.0201_NT48.styles.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/obj/Release/net8.0/service-worker-assets.js",
+      "PackagePath": "staticwebassets/service-worker-assets.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/obj/Release/net8.0/service-worker/service-worker.published.js",
+      "PackagePath": "staticwebassets/service-worker.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/03-nt48.png",
+      "PackagePath": "staticwebassets/03-nt48.png"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/000.md",
+      "PackagePath": "staticwebassets/Data/000.md"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/001.md",
+      "PackagePath": "staticwebassets/Data/001.md"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/002.md",
+      "PackagePath": "staticwebassets/Data/002.md"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/003.md",
+      "PackagePath": "staticwebassets/Data/003.md"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/cards.md",
+      "PackagePath": "staticwebassets/Data/cards.md"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/icon-512.png",
+      "PackagePath": "staticwebassets/icon-512.png"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/manifest.webmanifest",
+      "PackagePath": "staticwebassets/manifest.webmanifest"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.213.0201_NT48.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.213.0201_NT48.props",
+      "PackagePath": "build\\213.0201_NT48.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.213.0201_NT48.props",
+      "PackagePath": "buildMultiTargeting\\213.0201_NT48.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.213.0201_NT48.props",
+      "PackagePath": "buildTransitive\\213.0201_NT48.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
