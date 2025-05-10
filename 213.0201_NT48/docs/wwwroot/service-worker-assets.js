@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-KNz1reQMU4XsJc4Ets\/3cEYSDeyi9J7uvqWBrA8Q5so=",
+      "hash": "sha256-EoY8fxnt9Dhklbo4GCZkwQmuLQZogBgw3TMqo3QnIK4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-WouU51G\/a3x349zMyP8XLr0ol36BHipxHQF4dDeDGqg=",
+      "hash": "sha256-JA7xz3Tm14K1MLhhvazRq9GhLKZF0rskFMqbvYDJ8fA=",
       "url": "_framework\/213.0201_NT48.wasm"
     },
     {
@@ -237,7 +237,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-bHrwZFeKbV04MkuYPWbcC701K6wFtjS7DOaupVRIkSU=",
+      "hash": "sha256-9CpBvE+Kdowh03Ruph2XvKWtPVF6WHKuRIs7hlqkf0E=",
       "url": "index.html"
     },
     {
@@ -249,5 +249,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "jBKgf3yT"
+  "version": "OVhBe+Fk"
 };
