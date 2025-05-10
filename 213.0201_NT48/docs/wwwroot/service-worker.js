@@ -51,6 +51,6 @@ async function onFetch(event) {
         cachedResponse = await cache.match(request);
     }
 
-    return cachedResponse || fetch(event.request);
+    return cachedResponse; //|| fetch(event.request);
 }
-/* Manifest version: /fwnesQq */
+/* Manifest version: jBKgf3yT */

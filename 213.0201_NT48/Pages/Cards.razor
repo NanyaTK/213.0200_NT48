@@ -1,0 +1,197 @@
+@* @page "/cards" *@
+@inject HttpClient Http
+@inject IJSRuntime JSRuntime
+@using System.IO
+
+<h3>d</h3>
+@if (isLoading)
+{
+    <p><em>カードを読み込み中...</em></p>
+}
+else if (flashcards == null || !flashcards.Any())
+{
+    <p>カードが見つかりません。<code>wwwroot/data/cards.md</code> を確認してください。</p>
+}
+else
+{
+    @* <div class="card-container">
+        <div id="card-content" class="card-content" @onclick="FlipCard">
+            @((MarkupString)currentDisplayContent)
+        </div>
+
+        <div class="card-navigation">
+            <button @onclick="PreviousCard" disabled="@(currentIndex == 0)">前へ</button>
+            <span>@(currentIndex + 1) / @flashcards.Count</span>
+            <button @onclick="NextCard" disabled="@(currentIndex == flashcards.Count - 1)">次へ</button>
+        </div>
+        <p class="hint">カードをクリックしてめくります。</p>
+    </div> *@
+    <p>$12321$</p>
+}
+
+@code {
+    private List<Flashcard>? flashcards;
+    private int currentIndex = 0;
+    private bool showTerm = true;
+    private bool isLoading = true;
+    private string currentDisplayContent = string.Empty;
+
+    // KaTeX レンダリングが必要かどうかのフラグ
+    private bool shouldRenderKatex = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadFlashcardsAsync();
+        isLoading = false;
+        if (flashcards != null && flashcards.Any())
+        {
+            UpdateDisplayContent();
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        // コンテンツが更新され、KaTeX レンダリングが必要な場合にのみ実行
+        if (shouldRenderKatex && !isLoading && flashcards != null && flashcards.Any())
+        {
+            await JSRuntime.InvokeAsync<IJSObjectReference>("renderMathInElement", "card-content");
+            shouldRenderKatex = false; // レンダリング後はフラグをリセット
+        }
+    }
+
+    private async Task LoadFlashcardsAsync()
+    {
+        try
+        {
+            var markdownContent = await Http.GetStringAsync("data/cards.md");
+            flashcards = new List<Flashcard>();
+            using var reader = new StringReader(markdownContent);
+            string? line;
+            while ((line = await reader.ReadLineAsync()) != null)
+            {
+                if (!string.IsNullOrWhiteSpace(line))
+                {
+                    var parts = line.Split(',', 2); // 最初のカンマで分割
+                    if (parts.Length == 2)
+                    {
+                        flashcards.Add(new Flashcard(parts[0].Trim(), parts[1].Trim()));
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Skipping malformed line: {line}"); // 形式が違う行はスキップ（ログ出力）
+                    }
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading or parsing flashcards: {ex.Message}");
+            flashcards = new List<Flashcard>(); // エラー時は空リスト
+        }
+    }
+
+    private void UpdateDisplayContent()
+    {
+        if (flashcards == null || !flashcards.Any()) return;
+
+        var currentCard = flashcards[currentIndex];
+        currentDisplayContent = showTerm ? currentCard.Term : currentCard.Definition;
+        shouldRenderKatex = true; // 表示内容が変わったので KaTeX レンダリングが必要
+    }
+
+    private void FlipCard()
+    {
+        showTerm = !showTerm;
+        UpdateDisplayContent();
+    }
+
+    private void NextCard()
+    {
+        if (currentIndex < flashcards?.Count - 1)
+        {
+            currentIndex++;
+            showTerm = true; // 次のカードはまず表面を表示
+            UpdateDisplayContent();
+        }
+    }
+
+    private void PreviousCard()
+    {
+        if (currentIndex > 0)
+        {
+            currentIndex--;
+            showTerm = true; // 前のカードはまず表面を表示
+            UpdateDisplayContent();
+        }
+    }
+}
+
+<style>
+    .card-container {
+        margin: 20px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        width: 300px;
+        text-align: center;
+        background-color: #f9f9f9;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-content {
+        min-height: 100px;
+        /* 高さを確保 */
+        padding: 15px;
+        margin-bottom: 15px;
+        cursor: pointer;
+        /* クリック可能を示す */
+        border: 1px dashed #eee;
+        background-color: #fff;
+        display: flex;
+        /* Flexbox を使用 */
+        justify-content: center;
+        /* 水平方向中央揃え */
+        align-items: center;
+        /* 垂直方向中央揃え */
+        text-align: center;
+        /* テキストも中央揃え */
+        overflow-wrap: break-word;
+        /* 長い単語を折り返す */
+        word-break: break-all;
+        /* 必要なら強制的に改行 */
+    }
+
+    .card-navigation button {
+        margin: 0 10px;
+        padding: 5px 10px;
+    }
+
+    .card-navigation span {
+        display: inline-block;
+        min-width: 50px;
+        /* 幅を確保して位置ずれを防ぐ */
+    }
+
+    .hint {
+        font-size: 0.8em;
+        color: #666;
+        margin-top: 10px;
+    }
+
+    /* KaTeX のデフォルトスタイル調整 (必要に応じて) */
+    .katex {
+        font-size: 1.1em;
+        /* 少し大きくする */
+        text-align: center;
+        /* KaTeXブロック要素も中央揃え */
+    }
+
+    .katex-display {
+        /* ディスプレイ数式用 */
+        margin: 0.5em 0;
+        display: block;
+        /* ブロック要素として扱う */
+        text-align: center;
+        /* 中央揃え */
+    }
+</style>
