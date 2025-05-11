@@ -1,0 +1,39 @@
+name: Auto Merge dev to main
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  merge-dev-to-main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # mainブランチとdevブランチの履歴を取得するためにfetch-depth: 0 を指定
+          fetch-depth: 0
+          # ワークフロー内でpushするためにトークンを指定
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Switch to main branch
+        run: git checkout main
+
+      - name: Pull latest changes from main
+        run: git pull origin main
+
+      - name: Merge dev branch into main
+        run: |
+          # マージを実行
+          # --no-ff オプションでマージコミットを必ず作成します
+          # コンフリクトが発生した場合はエラーで終了します
+          git merge --no-ff origin/dev -m "Merge dev into main"
+
+      - name: Push changes to main
+        run: git push origin main
