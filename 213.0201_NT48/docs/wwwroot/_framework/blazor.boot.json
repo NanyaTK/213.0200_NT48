@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "213.0201_NT48",
   "resources": {
-    "hash": "sha256-7d2OiIqckdKYkYWQcxOCF7egTkskKkMFGcs64rxpZtM=",
+    "hash": "sha256-FR3iSS86UWfzrKYCU7N9Wr1YRw0Z5sgLGskedShvfRM=",
     "jsModuleNative": {
       "dotnet.native.8.0.15.w89k26rfrp.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "213.0201_NT48.wasm": "sha256-Q6AZtxh/XL+lTDatY/CyqtNZRXTBVpAp3YD2qGGP+Uo=",
+      "213.0201_NT48.wasm": "sha256-WfrOvMQ70QVbnesMw4wafRnY4O87MjTGdIm2TgMpQX0=",
       "Markdig.wasm": "sha256-eFBnBx0SZSsywfiHkr/ICGB4vhPgDjDkGX+aGXw6ZsY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-8mctQmD/W2JRbKrGFFYWzkw1RSvpEh3FQvb1gisfYwg=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-6H6sw6DPC/l2ZCZQ6FDUbgopODrSc3TILZkNKjEFApw=",

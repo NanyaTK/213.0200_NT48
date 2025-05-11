@@ -877,17 +877,17 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-GzkMiXH9CAxfJ2FIF6PAMX+S5bFKE6DKuiheetUisxc=",
+      "hash": "sha256-Q6AZtxh\/XL+lTDatY\/CyqtNZRXTBVpAp3YD2qGGP+Uo=",
       "url": "_framework\/213.0201_NT48.wasm"
     },
     {
-      "hash": "sha256-KGs6P6P5O4pWOhWt0w0w0Mj6i0H28vnJAgdMERqurf8=",
+      "hash": "sha256-Z4ROCuXbsgPfhw+t\/Bx1cWf\/rC0\/anzNfUgZ\/mLF2fw=",
       "url": "_framework\/213.0201_NT48.pdb"
     },
     {
-      "hash": "sha256-8cAVnDlGwnF6ilDljFRIU6PT9JBRsLeofuwgAO\/VXuc=",
+      "hash": "sha256-3c\/ZhzFvoR0gczK0YDKS7BcQCwt\/suyX1VCzNHkMfvY=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "D7vEs2jU"
+  "version": "IPgtnoCV"
 };
