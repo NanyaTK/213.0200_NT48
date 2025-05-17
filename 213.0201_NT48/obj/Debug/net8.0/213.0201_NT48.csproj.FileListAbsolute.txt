@@ -1040,3 +1040,7 @@
 /workspaces/213.0200_NT48/213.0201_NT48/bin/Debug/net8.0/Markdig.dll
 /workspaces/213.0200_NT48/213.0201_NT48/obj/Debug/net8.0/webcil/Markdig.wasm
 /workspaces/213.0200_NT48/213.0201_NT48/obj/Debug/net8.0/compressed/oqylx6hknf.gz
+/workspaces/213.0200_NT48/213.0201_NT48/bin/Debug/net8.0/docs/web.config
+/workspaces/213.0200_NT48/213.0201_NT48/bin/Debug/net8.0/docs/wwwroot/sample-data/weather.json
+/workspaces/213.0200_NT48/213.0201_NT48/bin/Debug/net8.0/docs/wwwroot/_framework/blazor.boot.json
+/workspaces/213.0200_NT48/213.0201_NT48/obj/Debug/net8.0/213.0201_NT48.sourcelink.json

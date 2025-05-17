@@ -16,7 +16,7 @@ else if (Lines != null && Lines.Length > 0)
 {
     <div class="">
         <nav class="flex-column">
-            @for (int i = 0; i < Lines.Length; i++)
+            @for (int i = Lines.Length - 1; i >= 0; i--)
             {
                 var line = Lines[i];
                 var id = i + 1; // 行番号をIDとする (1始まり)
