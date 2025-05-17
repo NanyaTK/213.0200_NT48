@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ty7hbU/Bmt825PbuidABXW6/3Igmaln8/S96pSQgz0k=",
+  "Hash": "Wa7iNYiFaNzJ2YzhjB4gbx353GNoov36FKg5mCfIEIY=",
   "Source": "213.0201_NT48",
   "BasePath": "/",
   "Mode": "Root",
@@ -7919,6 +7919,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/service-worker.published.js"
+    },
+    {
+      "Identity": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/03-nt48.png",
+      "SourceId": "213.0201_NT48",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "03-nt48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/03-nt48.png"
     },
     {
       "Identity": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/css/app.css",

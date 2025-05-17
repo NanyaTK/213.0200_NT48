@@ -1,6 +1,10 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-wfGHmGRIh5rR3cB0MHKpo6\/ST1BvyEXnqVWs2AaHtvg=",
+      "url": "03-nt48.png"
+    },
+    {
       "hash": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
       "url": "css\/app.css"
     },
@@ -13,19 +17,19 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-jbLBCG+Oz9LIAxUpGkSbMq2JqROKV3Bexx8EpQX\/mbw=",
+      "hash": "sha256-PEEpflpAYouIk654j5ggLGWgf5MpSdhBPx9d4rflSeo=",
       "url": "css\/main.css"
     },
     {
-      "hash": "sha256-87GkUmeBQdHfR47LyLFj3AHqWcSLmQlztDT6ZOIvLe8=",
+      "hash": "sha256-yzew3J\/PYmTpo2jTCpjwYdg\/X92M9Rh+KPjyY1UU4gA=",
       "url": "Data\/000.md"
     },
     {
-      "hash": "sha256-YIl0Ru6SFEf4OI87qC1D1LS0qq6PoQFYP\/CwzRzElKI=",
+      "hash": "sha256-h9XBuS+JrJ8CzsmqT7QgSv6PgvN4ITj84TzLqW7eFKo=",
       "url": "Data\/001.md"
     },
     {
-      "hash": "sha256-ypeBEsobvcr6wjGzmiPcTaeG7\/gUfE5yuYB3ha\/uSLs=",
+      "hash": "sha256-yj8FEHQm26zktYyCmZpPATXoeEF4mfGj2o9prQ26bKk=",
       "url": "Data\/002.md"
     },
     {
@@ -49,7 +53,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-jCst70noFAfidvNl6jqQpFchCEOY3AT+WK\/i784kYgo=",
+      "hash": "sha256-u5vSamS\/4ofAEbO6TI7aaUs4gHlwHNlA4rV4X+dj1y4=",
       "url": "index.html"
     },
     {
@@ -873,17 +877,17 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-4eLNsCvbErzW1uLknVe5T0MEDcTT3eQnOtBuBu2TLx4=",
+      "hash": "sha256-QYRvO3bHzwef6dDUIATv1zbbXAacyDh01w9w40E+\/rE=",
       "url": "_framework\/213.0201_NT48.wasm"
     },
     {
-      "hash": "sha256-FhWXjmFdFZHn3dtqHiJNbYVHdVDADTrTt09EHrZhDbw=",
+      "hash": "sha256-zLM8DJwqEyvRDv6bypXEsqYeBU\/Ci50YtshEN4ACfcc=",
       "url": "_framework\/213.0201_NT48.pdb"
     },
     {
-      "hash": "sha256-4ylqeMLXNZDAN7yCPGnN6T9VIMqeIGeJUPN\/OduGtgM=",
+      "hash": "sha256-WFGC5\/vdwqFegw80YvwqWiqwKlZqxVWLKavSDZtZzFc=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "4i0\/3fKA"
+  "version": "kzS143eG"
 };

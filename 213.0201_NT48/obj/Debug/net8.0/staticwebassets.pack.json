@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/service-worker.js"
     },
     {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/03-nt48.png",
+      "PackagePath": "staticwebassets/03-nt48.png"
+    },
+    {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/000.md",
       "PackagePath": "staticwebassets/Data/000.md"
     },

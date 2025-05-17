@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXJ0aWNsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/workspaces/213.0200_NT48/213.0201_NT48/Pages/Banner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFubmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/workspaces/213.0200_NT48/213.0201_NT48/Pages/Cards.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FyZHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
