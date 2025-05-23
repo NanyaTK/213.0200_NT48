@@ -45,6 +45,14 @@
       "PackagePath": "staticwebassets/Data/cards.md"
     },
     {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/banner.odg",
+      "PackagePath": "staticwebassets/banner.odg"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/banner.png",
+      "PackagePath": "staticwebassets/banner.png"
+    },
+    {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
@@ -75,6 +83,10 @@
     {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/js/mathRenderer.js",
+      "PackagePath": "staticwebassets/js/mathRenderer.js"
     },
     {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/manifest.webmanifest",

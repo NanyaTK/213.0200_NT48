@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/js/mathRenderer.js",
+      "PackagePath": "staticwebassets/js/mathRenderer.js"
+    },
+    {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/manifest.webmanifest",
       "PackagePath": "staticwebassets/manifest.webmanifest"
     },

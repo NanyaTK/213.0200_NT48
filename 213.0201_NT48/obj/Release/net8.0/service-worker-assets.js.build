@@ -61,8 +61,12 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-seGkcHh4zflTVmD75nuytc9YIpT91awEz2hfTdAuN3I=",
+      "hash": "sha256-q5FfbMaHnsLE3aX6kg6a4q4eA\/xhu2nsb0N0W4zewdw=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-aHDczz2lPaVIqu6kb1aZivamGZQ\/iMndOI2+nyvpKsA=",
+      "url": "js\/mathRenderer.js"
     },
     {
       "hash": "sha256-LbJ8dc9fQ9XGUlGFfqBe9KX40+cy+u77IAjjl1aZI+M=",
@@ -885,17 +889,17 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-23QgjPMkCfVIp72i4fN\/cTc5WRoHJHyTwA1tDsXF5AA=",
+      "hash": "sha256-rttWAOjFrR65ZesRKWrNpYHzShZ65tQ+8qvLdeJaqnw=",
       "url": "_framework\/213.0201_NT48.wasm"
     },
     {
-      "hash": "sha256-6SqnzWFIuav69POd0WEiVwA0x1RrzZiBv8KVyRIWst8=",
+      "hash": "sha256-JRvEy2X1ACdhTf\/c7KvL2xV1xyq5iRtaEUPsfkftggU=",
       "url": "_framework\/213.0201_NT48.pdb"
     },
     {
-      "hash": "sha256-4kowXGwq4qmOmQMGW0meZeFmy3KWEhaBUBo1H\/uxLYA=",
+      "hash": "sha256-60uUO6lZp\/fXPgPmcxCisxmHj74TilMbdhKpnQNkLZk=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "uMn6gRfN"
+  "version": "3NzM4FHA"
 };
