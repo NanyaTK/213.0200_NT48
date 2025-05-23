@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f9SmcdoXQMWB2UWn1fjxzAPqhVw06jDbj0r9DD8MmnE=",
+  "Hash": "7RWe5vRtZ9nxNuuK+Tq4c8CpVXUv8XG2aVftMhAlyFw=",
   "Source": "213.0201_NT48",
   "BasePath": "/",
   "Mode": "Root",
@@ -8223,6 +8223,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/js/mathRenderer.js",
+      "SourceId": "213.0201_NT48",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "js/mathRenderer.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/mathRenderer.js"
     },
     {
       "Identity": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/manifest.webmanifest",
