@@ -53,6 +53,98 @@
       "PackagePath": "staticwebassets/banner.png"
     },
     {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/11-ckwz.css",
+      "PackagePath": "staticwebassets/ckwz/11-ckwz.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/13-ckwz.ico",
+      "PackagePath": "staticwebassets/ckwz/13-ckwz.ico"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/14-ckwz.webp",
+      "PackagePath": "staticwebassets/ckwz/14-ckwz.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/22-cart.ico",
+      "PackagePath": "staticwebassets/ckwz/22-cart.ico"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-1.html",
+      "PackagePath": "staticwebassets/ckwz/article-1.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-10.html",
+      "PackagePath": "staticwebassets/ckwz/article-10.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-11.html",
+      "PackagePath": "staticwebassets/ckwz/article-11.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-12.html",
+      "PackagePath": "staticwebassets/ckwz/article-12.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-13.html",
+      "PackagePath": "staticwebassets/ckwz/article-13.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-14.html",
+      "PackagePath": "staticwebassets/ckwz/article-14.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-15.html",
+      "PackagePath": "staticwebassets/ckwz/article-15.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-16.html",
+      "PackagePath": "staticwebassets/ckwz/article-16.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-17.html",
+      "PackagePath": "staticwebassets/ckwz/article-17.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-18.html",
+      "PackagePath": "staticwebassets/ckwz/article-18.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-2.html",
+      "PackagePath": "staticwebassets/ckwz/article-2.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-3.html",
+      "PackagePath": "staticwebassets/ckwz/article-3.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-4.html",
+      "PackagePath": "staticwebassets/ckwz/article-4.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-5.html",
+      "PackagePath": "staticwebassets/ckwz/article-5.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-6.html",
+      "PackagePath": "staticwebassets/ckwz/article-6.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-7.html",
+      "PackagePath": "staticwebassets/ckwz/article-7.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-8.html",
+      "PackagePath": "staticwebassets/ckwz/article-8.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-9.html",
+      "PackagePath": "staticwebassets/ckwz/article-9.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/main.html",
+      "PackagePath": "staticwebassets/ckwz/main.html"
+    },
+    {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },

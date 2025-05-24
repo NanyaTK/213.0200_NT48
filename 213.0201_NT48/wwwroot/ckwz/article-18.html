@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8" />
+<title>USBSSDのUnityがうまく動かなかった話  -竹輪雑記</title>
+<meta name="description" content="素直にインストールしろは禁句">
+<link href="/ckwz/11-ckwz.css" rel="stylesheet">
+<link href="/ckwz/22-cart.ico" rel="icon">
+<meta name="twitter:card" content="summary">
+<meta property="og:title" content="USBSSDのUnityがうまく動かなかった話 -竹輪雑記">
+<meta property="og:image" content="/ckwz/21-cart.png">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<script src="/ckwz/mathjax/es5/tex-chtml.js" id="MathJax-script" defer></script><script src="/ckwz/markedjs/marked.min.js"></script></head><body><div class="content">
+<header><a class="header" href="/ckwz/">竹輪雑記</a></header>
+<div class="main"><div class="left"><div class="empty"></div>
+<p class="update">最終更新：2025-02-10,2025-05-24(html-archive)</p>
+<div class="article"><div class="articleCardMain">
+<div class="articleTitle"><div class="article_title">USBSSDのUnityがうまく動かなかった話</div>
+<div class="article_tag"><a class="tagurl" href="/ckwz/10-ckwz.php?tag=Unity">Unity</a></div></div>
+<hr><div class="articleDate">投稿：2025-02-07<br>更新：2025-02-07,2025-05-24(html-archive)<br></div>
+<div id="articleS" class="articleMain"></div></div></div></div></div>
+<footer>&copy; 2024-2025 NanyaTK</footer>
+</div><script>const art = "## UnityをUSBSSDで使っている話\n 複数のPCで両方にUnityやらUnity Engineを入れるのは馬鹿らしいので，USBSSDに両者をインストールしている．ポータブル版を浅く探したが，胡散臭い物しか無かった上古かったのでインストーラからインストールする普通のやつである．\n 尚，複数のPCで同じPathになるようにドライブレターはIを割り当てていた\n \n ## 何が起こったか\n 或る時，しらんけどWindowsがUSBSSDのドライブレターをHに割り当てた．<br>\n Unity Hubは普通に起動したが，既存のプロジェクトを起動しようとしても一瞬ロードっぽいものをするだけで一向に起動しない．非常にxxxである．\n \n ## 前例\n UnityをUSBSSDで実際に使っている酔狂な人間はそういないので見当たらなかったが普通にインストールしていても起動しないことがあるようだ．何してんねん\n \n ## 原因の推測\n Unity（というか世の殆どのソフトウェア）は起動時や実行時に一時ファイルだったり何かしらのファイルを作成する．Unityの場合はライセンスの資格情報だったりを保存している．これが，たぶんディレクトリが異なった場合に使えず，かといってもう一度やり直すわけでもない為起動しないのだろう．\n \n ## 解決\n 一時ファイルといえばAppDataと相場が決まっているので，User/AppData/Local, LocalLow and Roaming以下のUnity,Unity Hub,Unity EngineなどUnityと名の付くフォルダを丸ごと削除した後にUnity Hubを起動しなおしたら直った（根本解決ではない）．";document.getElementById("articleS").innerHTML = marked.parse(art);</script></body>
+</html>
