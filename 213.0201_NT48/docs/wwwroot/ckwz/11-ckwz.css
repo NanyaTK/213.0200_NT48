@@ -1,0 +1,191 @@
+html {
+    background-color: #eefaff;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 8px 25px 8px 25px;
+    text-align: left;
+    background-color: #339966;
+    overflow: hidden;
+    z-index: 30;
+}
+
+a.header {
+    font-size: larger;
+    font-weight: bold;
+    font-family: "Helvetica Neue",
+        Arial,
+        "Hiragino Kaku Gothic ProN",
+        "Hiragino Sans",
+        Meiryo,
+        sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    width: 100%;
+    box-sizing: border-box;
+    height: fit-content;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: smaller;
+    overflow: hidden;
+    z-index: 20;
+}
+
+body {
+    height: fit-content;
+    margin: 0px;
+}
+
+.center {
+    margin-left: 45%;
+}
+
+.main {
+    min-height: 1000px;
+    box-sizing: border-box;
+    display: flex;
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.left {
+    width: 100%;
+}
+
+.empty {
+    width: 100%;
+    height: 70px;
+}
+
+.article {
+    margin: 20px;
+}
+
+.TandD {
+    display: flex;
+}
+
+.articleDateMain {
+    width: 100px;
+    text-align: right;
+    font-size: small;
+}
+
+.articleTitle {
+    display: flex;
+    width: 100%;
+}
+
+.article_tag {
+    margin-left: auto;
+    background-color: #d3d3d3;
+    font-size: small;
+    margin-top: auto;
+}
+
+.articleCard {
+    margin-top: 5px;
+    padding: 3px 5px 0px 5px;
+    height: 80px;
+    background-color: white;
+}
+
+.articleLink {
+    text-decoration: none;
+    color: black;
+}
+
+.articleCardMain {
+    margin-top: 5px;
+    padding: 3px 5px 0px 5px;
+    height: auto;
+    background-color: white;
+}
+
+.articleDate {
+    width: 100%;
+    text-align: right;
+    font-size: small;
+}
+
+.image {
+    text-align: center;
+}
+
+.imgsize {
+    /*width: 90%;*/
+    max-width: 540px;
+    display: flex;
+    margin-left: 50px;
+}
+
+.update {
+    font-size: xx-small;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.tagurl {
+    text-decoration: none;
+    color: blue;
+    margin: 0.2em;
+}
+
+code {
+    background-color: lightgray;
+    padding: 0 3px;
+    border-radius: 3px;
+    font-family: monospace;
+}
+
+pre {
+    overflow-x: scroll;
+    background-color: lightgray;
+}
+
+@media screen and (max-width: 1000px) {
+    header {
+        height: fit-content;
+    }
+
+
+    .center {
+        margin-left: 45%;
+    }
+
+    .main {
+        padding-top: 15px;
+    }
+
+    .article {
+        font-size: 1em;
+    }
+
+
+    .articleDateMain {
+        font-size: x-small;
+    }
+
+
+    .articleCard {
+        height: 100px;
+    }
+
+
+    .imgsize {
+        width: 90%;
+        object-fit: contain;
+    }
+}

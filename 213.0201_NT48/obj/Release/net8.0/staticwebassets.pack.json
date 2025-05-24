@@ -53,6 +53,602 @@
       "PackagePath": "staticwebassets/banner.png"
     },
     {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/11-ckwz.css",
+      "PackagePath": "staticwebassets/ckwz/11-ckwz.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/13-ckwz.ico",
+      "PackagePath": "staticwebassets/ckwz/13-ckwz.ico"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/14-ckwz.webp",
+      "PackagePath": "staticwebassets/ckwz/14-ckwz.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/22-cart.ico",
+      "PackagePath": "staticwebassets/ckwz/22-cart.ico"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-1.html",
+      "PackagePath": "staticwebassets/ckwz/article-1.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-10.html",
+      "PackagePath": "staticwebassets/ckwz/article-10.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-11.html",
+      "PackagePath": "staticwebassets/ckwz/article-11.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-12.html",
+      "PackagePath": "staticwebassets/ckwz/article-12.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-13.html",
+      "PackagePath": "staticwebassets/ckwz/article-13.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-14.html",
+      "PackagePath": "staticwebassets/ckwz/article-14.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-15.html",
+      "PackagePath": "staticwebassets/ckwz/article-15.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-16.html",
+      "PackagePath": "staticwebassets/ckwz/article-16.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-17.html",
+      "PackagePath": "staticwebassets/ckwz/article-17.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-18.html",
+      "PackagePath": "staticwebassets/ckwz/article-18.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-2.html",
+      "PackagePath": "staticwebassets/ckwz/article-2.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-3.html",
+      "PackagePath": "staticwebassets/ckwz/article-3.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-4.html",
+      "PackagePath": "staticwebassets/ckwz/article-4.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-5.html",
+      "PackagePath": "staticwebassets/ckwz/article-5.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-6.html",
+      "PackagePath": "staticwebassets/ckwz/article-6.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-7.html",
+      "PackagePath": "staticwebassets/ckwz/article-7.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-8.html",
+      "PackagePath": "staticwebassets/ckwz/article-8.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/article-9.html",
+      "PackagePath": "staticwebassets/ckwz/article-9.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/03-001.webp",
+      "PackagePath": "staticwebassets/ckwz/images/03-001.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/07-001.webp",
+      "PackagePath": "staticwebassets/ckwz/images/07-001.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/10-001.webp",
+      "PackagePath": "staticwebassets/ckwz/images/10-001.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/12-001.webp",
+      "PackagePath": "staticwebassets/ckwz/images/12-001.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/15-001.webp",
+      "PackagePath": "staticwebassets/ckwz/images/15-001.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/15-002.webp",
+      "PackagePath": "staticwebassets/ckwz/images/15-002.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/15-003.webp",
+      "PackagePath": "staticwebassets/ckwz/images/15-003.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/15-004.webp",
+      "PackagePath": "staticwebassets/ckwz/images/15-004.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/15-005.webp",
+      "PackagePath": "staticwebassets/ckwz/images/15-005.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/15-006.webp",
+      "PackagePath": "staticwebassets/ckwz/images/15-006.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/15-007.webp",
+      "PackagePath": "staticwebassets/ckwz/images/15-007.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/17-001.webp",
+      "PackagePath": "staticwebassets/ckwz/images/17-001.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/17-002.webp",
+      "PackagePath": "staticwebassets/ckwz/images/17-002.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/17-003.webp",
+      "PackagePath": "staticwebassets/ckwz/images/17-003.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/17-004.webp",
+      "PackagePath": "staticwebassets/ckwz/images/17-004.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/17-005.webp",
+      "PackagePath": "staticwebassets/ckwz/images/17-005.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/17-006.webp",
+      "PackagePath": "staticwebassets/ckwz/images/17-006.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/17-007.webp",
+      "PackagePath": "staticwebassets/ckwz/images/17-007.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/images/17-008.webp",
+      "PackagePath": "staticwebassets/ckwz/images/17-008.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/main.html",
+      "PackagePath": "staticwebassets/ckwz/main.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/markedjs/marked.min.js",
+      "PackagePath": "staticwebassets/ckwz/markedjs/marked.min.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/a11y/assistive-mml.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/a11y/assistive-mml.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/a11y/complexity.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/a11y/complexity.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/a11y/explorer.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/a11y/explorer.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/a11y/semantic-enrich.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/a11y/semantic-enrich.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/a11y/sre.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/a11y/sre.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/adaptors/liteDOM.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/adaptors/liteDOM.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/core.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/core.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/asciimath.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/asciimath.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/mml.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/mml.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/mml/entities.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/mml/entities.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/mml/extensions/mml3.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/mml/extensions/mml3.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/mml/extensions/mml3.sef.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/mml/extensions/mml3.sef.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex-base.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex-base.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex-full.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex-full.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/action.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/action.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/all-packages.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/all-packages.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/ams.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/ams.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/amscd.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/amscd.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/autoload.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/autoload.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/bbox.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/bbox.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/boldsymbol.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/boldsymbol.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/braket.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/braket.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/bussproofs.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/bussproofs.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/cancel.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/cancel.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/cases.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/cases.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/centernot.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/centernot.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/color.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/color.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/colortbl.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/colortbl.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/colorv2.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/colorv2.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/configmacros.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/configmacros.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/empheq.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/empheq.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/enclose.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/enclose.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/extpfeil.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/extpfeil.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/gensymb.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/gensymb.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/html.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/html.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/mathtools.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/mathtools.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/mhchem.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/mhchem.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/newcommand.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/newcommand.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/noerrors.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/noerrors.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/noundefined.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/noundefined.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/physics.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/physics.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/require.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/require.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/setoptions.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/setoptions.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/tagformat.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/tagformat.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/textcomp.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/textcomp.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/textmacros.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/textmacros.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/unicode.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/unicode.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/upgreek.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/upgreek.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/input/tex/extensions/verb.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/input/tex/extensions/verb.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/latest.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/latest.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/loader.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/loader.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/mml-chtml.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/mml-chtml.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/mml-svg.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/mml-svg.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/node-main.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/node-main.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/tex.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/tex.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Math-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Math-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/chtml/fonts/woff-v2/MathJax_Zero.woff"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/svg.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/svg.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/output/svg/fonts/tex.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/output/svg/fonts/tex.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/base.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/base.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/ca.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/ca.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/da.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/da.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/de.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/de.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/en.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/en.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/es.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/es.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/fr.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/fr.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/hi.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/hi.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/it.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/it.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/nb.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/nb.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/nemeth.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/nemeth.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/nn.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/nn.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/sre/mathmaps/sv.json",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/sre/mathmaps/sv.json"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/startup.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/startup.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/tex-chtml-full-speech.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/tex-chtml-full-speech.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/tex-chtml-full.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/tex-chtml-full.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/tex-chtml.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/tex-chtml.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/tex-mml-chtml.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/tex-mml-chtml.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/tex-mml-svg.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/tex-mml-svg.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/tex-svg-full.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/tex-svg-full.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/tex-svg.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/tex-svg.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/ui/lazy.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/ui/lazy.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/ui/menu.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/ui/menu.js"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/mathjax/es5/ui/safe.js",
+      "PackagePath": "staticwebassets/ckwz/mathjax/es5/ui/safe.js"
+    },
+    {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },

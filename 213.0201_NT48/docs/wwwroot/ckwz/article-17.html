@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8" />
+<title>Tex環境をWSLへ移行する  -竹輪雑記</title>
+<meta name="description" content="WindowsからのアンインストールとWSLへの導入">
+<link href="/ckwz/11-ckwz.css" rel="stylesheet">
+<link href="/ckwz/22-cart.ico" rel="icon">
+<meta name="twitter:card" content="summary">
+<meta property="og:title" content="Tex環境をWSLへ移行する -竹輪雑記">
+<meta property="og:image" content="/ckwz/21-cart.png">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<script src="/ckwz/mathjax/es5/tex-chtml.js" id="MathJax-script" defer></script><script src="/ckwz/markedjs/marked.min.js"></script></head><body><div class="content">
+<header><a class="header" href="/ckwz/">竹輪雑記</a></header>
+<div class="main"><div class="left"><div class="empty"></div>
+<p class="update">最終更新：2025-02-10,2025-05-24(html-archive)</p>
+<div class="article"><div class="articleCardMain">
+<div class="articleTitle"><div class="article_title">Tex環境をWSLへ移行する</div>
+<div class="article_tag"><a class="tagurl" href="/ckwz/10-ckwz.php?tag=Ubuntu">Ubuntu</a></div></div>
+<hr><div class="articleDate">投稿：2025-01-11<br>更新：2025-01-11,2025-05-24(html-archive)<br></div>
+<div id="articleS" class="articleMain"></div></div></div></div></div>
+<footer>&copy; 2024-2025 NanyaTK</footer>
+</div><script>const art = "## はじめに\n この記事は以下の内容を**含みます**\n 1. WindowsにインストールされているTex Studio及びTex liveのアンインストール\n 1. WSL Ubuntu 22.04へのaptを用いたTex live packageのインストール\n 1. VSCode+WSLでのカスタマイズ\n \n この記事は以下の内容を**含みません**\n 1. WSLのインストール\n \n ## TeXstudioとTex Liveのアンインストール\n ### TeXstudioのアンインストール\n Windowsの設定->アプリからTex Studioをアンインストールします．\n ### Tex Liveのアンインストール\n Win+S キーを押して，検索ボックスに```uninstall tex live```と入力します．\n 'ファイルの場所を開く'として，ダブルクリックして実行します．\n \n <img src='images/17-001.webp' width='80%' alt='uninstall tex live'>\n <img src='images/17-002.webp' width='80%' alt='uninstall tex live'>\n \n ### 余談\n Googleでアンインストール方法を検索したときに，```\\\\texlive\\2023\\tlpkg\\installer\\uninst.bat```を実行すると良いと記載されていますが，これはUninstall Tex Liveと同じです．確認してもらえれば分かりますが，上記バッチファイルのショートカットがUninstall Tex Liveとなっています．\n \n ### 次はどうすれば？\n パソコンを再起動しましょう．\n \n ## WSL Ubuntu 22.04へのTex liveのインストール\n ### 前提\n - WSL導入済み\n \n Ubuntu 22.04はMicrosoft Storeからインストールする方法が簡単でしょう．WSL付属のUbuntuを使っても問題ありませんが，他のディストリビューションをインストールした際に紛らわしいかもしれません．\n \n ### Tex liveのインストール\n 1. ```sudo apt update && sudo apt upgrade -y```でマシンを最新の状態にします\n 1. ```sudo apt install texlive-full -y```でインストールを始めます．気長に待ちましょう\n 1. Progress:62%付近で，依存関係を処理するためにタイムゾーンを設定するよう求められます．6(Asia),79(Tokyo)を入力すると良いです．<br><img src='images/17-003.webp' width='80%' alt='Enter 6'><img src='images/17-004.webp' width='80%' alt='Enter 79'>\n 1. Progress:98%付近で，```Pregenerating ConTeXt MarkIV format. This may take some time...```と出力されます．これは待てど暮らせど終わらないので，Enterを12回くらい入力すると良いです．<br><img src='images/17-005.webp' width='80%' alt='skip Pregenerating ConTeXt MarkIV format'><img src='images/17-006.webp' width='80%' alt='skip Pregenerating ConTeXt MarkIV format'>\n 1. これ以降は待てば終わります．不用意な改行を入力しないようにしましょう．\n \n ### VSCodeの設定\n ### 前提\n - VSCodeインストール済み\n - mkdirとかcdとかlsくらいは使えてほしい\n ### WSLでのVSCodeの実行\n 1. インストールしたUbuntuを開きます<br><img src='images/17-007.webp' width='80%' alt='open Ubuntu'>\n 1. Texを保存したいディレクトリへ移動します\n 1. ```code .```とすると現在いるディレクトリでVSCodeがWSLで起動します．\n 1. 拡張機能はLaTex Workshopのみで良いです．他の物は入れる必要ありません．<br><img src='images/17-008.webp' width='80%' alt='extension'>\n 1. 左下の歯車マーク->設定->設定(JSONを開く)として，以下を追記します<br>\n ```    \n \"latex-workshop.latex.tools\": [\n         {\n             \"name\": \"latexmk\",\n             \"command\": \"latexmk\",\n             \"args\": [\n                 \"-e\",\n                 \"$latex=q/uplatex %O -kanji=utf8 -no-guess-input-enc -synctex=1 -interaction=nonstopmode -file-line-error %S/\",\n                 \"-e\",\n                 \"$bibtex=q/bibtexu %O %B/\",\n                 \"-e\",\n                 \"$biber=q/biber %O --bblencoding=utf8 -u -U --output_safechars %B/\",\n                 \"-e\",\n                 \"$makeindex=q/upmendex %O -o %D %S/\",\n                 \"-e\",\n                 \"$dvipdf=q/dvipdfmx %O -o %D %S/\",\n                 \"-norc\",\n                 \"-gg\",\n                 \"-pdfdvi\",\n                 \"%DOC%\"\n             ]\n         }\n     ],\n     \"latex-workshop.formatting.latex\": \"latexindent\",\n ```\n \n #### 余談\n [WSLでUSBメモリを使う方法](https://qiita.com/k_nanya2520/items/70ee0aef2f8ec491e1ef)の記事があります．参考にどうぞ";document.getElementById("articleS").innerHTML = marked.parse(art);</script></body>
+</html>

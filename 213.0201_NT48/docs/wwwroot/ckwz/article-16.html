@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8" />
+<title>プログラム意味論第1回  -竹輪雑記</title>
+<meta name="description" content="ラムダ式と計算">
+<link href="/ckwz/11-ckwz.css" rel="stylesheet">
+<link href="/ckwz/22-cart.ico" rel="icon">
+<meta name="twitter:card" content="summary">
+<meta property="og:title" content="プログラム意味論第1回 -竹輪雑記">
+<meta property="og:image" content="/ckwz/21-cart.png">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<script src="/ckwz/mathjax/es5/tex-chtml.js" id="MathJax-script" defer></script><script src="/ckwz/markedjs/marked.min.js"></script></head><body><div class="content">
+<header><a class="header" href="/ckwz/">竹輪雑記</a></header>
+<div class="main"><div class="left"><div class="empty"></div>
+<p class="update">最終更新：2025-02-10,2025-05-24(html-archive)</p>
+<div class="article"><div class="articleCardMain">
+<div class="articleTitle"><div class="article_title">プログラム意味論第1回</div>
+<div class="article_tag"><a class="tagurl" href="/ckwz/10-ckwz.php?tag=%E6%84%8F%E5%91%B3%E8%AB%96">意味論</a></div></div>
+<hr><div class="articleDate">投稿：2024-11-04<br>更新：2024-11-08,2025-05-24(html-archive)<br></div>
+<div id="articleS" class="articleMain"></div></div></div></div></div>
+<footer>&copy; 2024-2025 NanyaTK</footer>
+</div><script>const art = "横内寛文著 プログラム意味論の勉強とまとめを書いていく \n \n \n \n \n ### 2.2 λ式とβ変換\n \n \\\\(\\\\lambda\\\\) 式の定義は次の通り．\n 1. 変数\\\\(v,v',v'',...\\\\)は\\\\(\\\\lambda\\\\)式\n 1. \\\\(M\\\\)が\\\\(\\\\lambda\\\\) 式でxが変数のとき\\\\((\\\\lambda x.M)\\\\)は\\\\(\\\\lambda\\\\)式\n 1. \\\\(MとNが\\\\lambda 式のとき(MN)は\\\\lambda 式\\\\)\n \n このうち，\\\\((MN)\\\\)は関数適用で，\\\\((\\\\lambda x.M)\\\\)は\\\\(\\\\lambda\\\\)抽象にあたる．\n \n \n 部分式省略\n 自由変数及び束縛変数省略\n \n \n - \\\\(\\\\alpha\\\\)変換：束縛変数の名前を付け替える(束縛変数の名前自体は重要ではない)\n - \\\\(\\\\beta\\\\)変換：関数適用すること(\\\\(\\\\fallingdotseq\\\\)代入する)\n \n \\\\(\\\\lambda\\\\) 式\\\\(M\\\\)中の変数xを\\\\(\\\\lambda\\\\)式\\\\(N\\\\)に置き換える操作を定義する．例えば，\n \n \\\\begin{equation*}\n     (\\\\lambda xy.xy)(\\\\lambda z.z)=\\\\lambda y.(\\\\lambda z.z)y\n \\\\end{equation*}\n \n の\\\\(\\\\beta\\\\) 変換では，\\\\(\\\\lambda y.xy\\\\)中の\\\\(x\\\\)が\\\\(\\\\lambda z.z\\\\)に置き換わっている．詳細な式変形は次の通り\n \n \n \n 1. 左辺は\\\\((MN)\\\\)の形，即ち関数\\\\(M\\\\)を引数\\\\(N\\\\)に適用するという意．\n 2. \\\\(\\\\lambda xy.xy =(\\\\lambda x.(\\\\lambda y.xy))\\\\)である．即ち，\\\\(\\\\lambda xy.xy\\\\)は2つの引数\\\\(x,y\\\\)を受け取り，1つめの引数\\\\(x\\\\)を2つめの引数\\\\(y\\\\)に適用するという意．\n 3. 関数\\\\(\\\\lambda xy.xy\\\\)に\\\\(\\\\lambda z.z\\\\)を適用する．すると，\\\\(\\\\lambda y.(\\\\lambda z.z)y\\\\)という\\\\(\\\\lambda\\\\)式が生成される．\n \n 以上より右辺が導かれる\n \n ここで，\\\\(N\\\\)，ここでは\\\\(y\\\\)が自由変数を含んでいる場合には先のように単純に置き換えてはならない．例を次に示す．\n \\\\begin{equation*}\n     (\\\\lambda xy.xy)\\\\rightarrow\\\\lambda y.(\\\\lambda x.xy)y\n \\\\end{equation*}\n この例では，\\\\(\\\\lambda z.zy\\\\)の自由変数\\\\(y\\\\)が，置き換えの操作によって\\\\(\\\\lambda y.(\\\\lambda z.zy)\\\\)のように束縛されてしまうからである．このような場合は，束縛変数の名前を付け替える．(今回は\\\\(\\\\lambda x.(\\\\lambda y.xy)\\\\)の\\\\(y\\\\)を\\\\(v\\\\))\n \n \\\\begin{align*}\n     (\\\\lambda xy.xy)(\\\\lambda z.zy) &=\\\\lambda x.(\\\\lambda v.xv)(\\\\lambda z.zy) \\newline \n     &=\\\\lambda v.(\\\\lambda z.zy)v\n \\\\end{align*}\n 以上のようにすればよい．\n \n \n - \\\\(\\\\beta\\\\)変換可能：文字のまま\n - \\\\(\\\\beta\\\\)正規形：\\\\(\\\\beta\\\\)redex（\\\\(\\\\beta\\\\)基とも）をもたない\\\\(\\\\lambda\\\\)式．最左\\\\(\\\\beta\\\\)変換(最左戦略，最左リダクション)により正規形にできる．\n \n ### 2.3 チャーチ数\n 自然数\\\\(n\\\\in =\\\\{0,1,2,...\\\\}\\\\)について，\\\\(\\\\lambda 式\\\\)\n \\\\begin{align*}\n     C_n&\\\\equiv\\\\lambda fx.f^n(x) \\newline\n     C_0&\\\\lambda fx.x\n \\\\end{align*}\n この\\\\(C_n\\\\)をチャーチ数という\n \n \\\\(\\\\lambda式A_+,A_*,A_{exp}\\\\)を\n \\\\begin{align*}\n     A_+\\\\equiv\\\\lambda xypq.xp(ypq)\n \\\\end{align*}\n とすると，次の\\\\(\\\\beta\\\\)変換が成り立つ．\n \\\\begin{align*}\n     A_+c_mc_n=c_{m+n}\n \\\\end{align*}";document.getElementById("articleS").innerHTML = marked.parse(art);</script></body>
+</html>
