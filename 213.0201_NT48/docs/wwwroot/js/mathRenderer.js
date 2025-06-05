@@ -3,10 +3,10 @@ let renderTimer;
 window.triggerDelayedKatexRender = () => {
     clearTimeout(renderTimer);
 
-    console.log("Blazor navigation detected. Starting 2-second timer for KaTeX rendering.");
+    console.log("Blazor navigation detected. Starting 0.5-second timer for KaTeX rendering.");
 
     renderTimer = setTimeout(() => {
-        console.log("2 seconds have passed. Rendering KaTeX.");
+        console.log("0.5 seconds have passed. Rendering KaTeX.");
 
         try {
             if (typeof renderMathInElement === 'function') {
@@ -26,5 +26,5 @@ window.triggerDelayedKatexRender = () => {
         } catch (error) {
             console.error("An error occurred during KaTeX rendering:", error);
         }
-    }, 2000);
+    }, 500);
 };

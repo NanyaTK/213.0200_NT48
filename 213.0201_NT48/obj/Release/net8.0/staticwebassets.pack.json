@@ -41,6 +41,18 @@
       "PackagePath": "staticwebassets/Data/003.md"
     },
     {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/004.md",
+      "PackagePath": "staticwebassets/Data/004.md"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/005.md",
+      "PackagePath": "staticwebassets/Data/005.md"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/006.md",
+      "PackagePath": "staticwebassets/Data/006.md"
+    },
+    {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/banner.odg",
       "PackagePath": "staticwebassets/banner.odg"
     },
