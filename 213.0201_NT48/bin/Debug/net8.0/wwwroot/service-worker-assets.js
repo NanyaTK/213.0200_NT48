@@ -13,6 +13,54 @@
       "url": "banner.png"
     },
     {
+      "hash": "sha256-Qt+ydCICxapVl8e2N91YdBtkRe3fh19QdWpDfqIXSQc=",
+      "url": "blog\/01-main.css"
+    },
+    {
+      "hash": "sha256-9Ezum7+B6\/xu1SMBLoN6Ng2fTtihRi5PkQdX8EFzZ6s=",
+      "url": "blog\/b0.htm"
+    },
+    {
+      "hash": "sha256-Qt+ydCICxapVl8e2N91YdBtkRe3fh19QdWpDfqIXSQc=",
+      "url": "blog\/b0_files\/01-main.css"
+    },
+    {
+      "hash": "sha256-\/IZwFHGMmnOojr48s+ktRaIvF\/CGvBRYa1x+5VkxNcw=",
+      "url": "blog\/b0_files\/05-nt48.webp"
+    },
+    {
+      "hash": "sha256-Fq3wx9QCHKurqkm0PvpcqmPalFYsgbXCe7gT9BD63qU=",
+      "url": "blog\/b0_files\/31-blog.css"
+    },
+    {
+      "hash": "sha256-wuet3PoV+G3U7+e98yhr72fyUod3q4m5vww\/kOmE1Kg=",
+      "url": "blog\/b0_files\/modalPrompt.html"
+    },
+    {
+      "hash": "sha256-Ja7VrRtFi3rMytnprW5ZPthHKLmAG+Rn4mUAqMCdqS4=",
+      "url": "blog\/b2.htm"
+    },
+    {
+      "hash": "sha256-Fq3wx9QCHKurqkm0PvpcqmPalFYsgbXCe7gT9BD63qU=",
+      "url": "blog\/blog\/31-blog.css"
+    },
+    {
+      "hash": "sha256-8dyr43HNr7iXkyu+OpJzqhUTrn2oyJqj4hyvj5HdGtw=",
+      "url": "blog\/blog\/33-bart.css"
+    },
+    {
+      "hash": "sha256-xvfzFz25zp2kYfbV5XR1ZlWsGzEiwW9icI1qpjJkhD4=",
+      "url": "blog\/images\/02-01.webp"
+    },
+    {
+      "hash": "sha256-eiEOSGPlipw3AhjiqfyM5xX4wsrOOpsSOLnK3t0KRUg=",
+      "url": "blog\/images\/02-02.webp"
+    },
+    {
+      "hash": "sha256-XRCkR45atVXzCDW88a0QEuvhvueBE27wkMjguVenR80=",
+      "url": "blog\/images\/02-03.webp"
+    },
+    {
       "hash": "sha256-IH7KHGLvKOq+Dniu9HZywDLhyh2VSwfgM2+IkYIpOQ8=",
       "url": "ckwz\/11-ckwz.css"
     },
@@ -29,80 +77,584 @@
       "url": "ckwz\/22-cart.ico"
     },
     {
-      "hash": "sha256-PL4RE9CtplUWxLkmRpNv7O5Uzb2wBh\/6iZi6\/txeytE=",
+      "hash": "sha256-1ibBvKxZ\/kOfkVAMVKbT5XmusxKHEuGh3mqSvVtME48=",
       "url": "ckwz\/article-1.html"
     },
     {
-      "hash": "sha256-kQlCakqBCvNla863nE1xNbWLNFoRB81vMAO\/SorX95Q=",
+      "hash": "sha256-T3iIRQQCrcSdCQE2YEWGJgQ27myc8LvPkm3ea7K\/uwU=",
       "url": "ckwz\/article-10.html"
     },
     {
-      "hash": "sha256-0SD5AnYRpFLefQ4SuaTerR1OX7eXh1zf0sNVqcB2L\/0=",
+      "hash": "sha256-z+48AyUYtqJbpstaNPczlSMA9bChN91h7CGoB4IGZRo=",
       "url": "ckwz\/article-11.html"
     },
     {
-      "hash": "sha256-lN\/uHxalQESio\/XomGdQnaQOkYm77mUVirO9\/cVIEHw=",
+      "hash": "sha256-MgDMr32O2dBmpA3n5NNrlar9tLSCFJY6n2bgBDOx5Uw=",
       "url": "ckwz\/article-12.html"
     },
     {
-      "hash": "sha256-92E7I+0zs+sueLtQYmLuNk13sWFoaagai8eVHfipJOI=",
+      "hash": "sha256-\/ifTcEI\/UR2VClrpXwbMrkxKkeOtTO94dxgD9gTQWXs=",
       "url": "ckwz\/article-13.html"
     },
     {
-      "hash": "sha256-LUaU+W5T6eH+xOEai9TQQOdNYdUsQNXdarh7VKmbYK0=",
+      "hash": "sha256-b3fhXxtK0aqz6P9byka9daARAYO8zv7OKbs3oBDeYM8=",
       "url": "ckwz\/article-14.html"
     },
     {
-      "hash": "sha256-2eEsE6Qqd4sJ1NvH\/DFu3lvfipo8u9Ga7v9raagoJNw=",
+      "hash": "sha256-uwq+t2jO\/jEYNSkfzKYN+TAXzA+u0bZ1xW2Pj1JwEKM=",
       "url": "ckwz\/article-15.html"
     },
     {
-      "hash": "sha256-MMBlhvOZ91hQoP7H6HqWs3ra3jQtTnbqkN2vzj7dG5Y=",
+      "hash": "sha256-j0HEZ+ai394ytGQoUnSCC3cMRQsPsaK8WWnZ2PKDBfA=",
       "url": "ckwz\/article-16.html"
     },
     {
-      "hash": "sha256-LzNluNvW0+g9gUR6JG3M6ieVscMqe\/N7khTNqF6cNGE=",
+      "hash": "sha256-rmmUmQwVVBiQp8jKFkALQvifrvZRpdCJpihIKJOuSdw=",
       "url": "ckwz\/article-17.html"
     },
     {
-      "hash": "sha256-Q\/cgp\/9s+Y5cgVQEYi3Pxq5dhSDTQ6XCOEZrqLkpkOs=",
+      "hash": "sha256-1iN+yqmulO3pX5jxp3TlPiKYCAvlEGTm+mocgvrVwBc=",
       "url": "ckwz\/article-18.html"
     },
     {
-      "hash": "sha256-qUMM8nwI2UXycOso5SeBf\/Ln\/uRVBNs0YkR3af2LmQs=",
+      "hash": "sha256-G7lrlE2ZZzHsCvzya1lm5rCHpnl3EfSI5qVuLgN2E7o=",
       "url": "ckwz\/article-2.html"
     },
     {
-      "hash": "sha256-gbXzsdeU\/JKmlu0jRq\/gETSyGHsYdLlNbccUxTSgFsI=",
+      "hash": "sha256-JkGDU9D4q3hT8j\/tj9PFa2ai3GtC83dnVOj6KLr9iok=",
       "url": "ckwz\/article-3.html"
     },
     {
-      "hash": "sha256-6433\/z0O8dJ0FSjZbdP\/VVzbhHEm8I89ZPvO2AT3X74=",
+      "hash": "sha256-jyhMdN+2RoIWrDfIP7OrXRkwIQxbgPPIF6VzT412Qp8=",
       "url": "ckwz\/article-4.html"
     },
     {
-      "hash": "sha256-dxKU1Cj\/XhjcYeZFCenrUsq4ZMyOrh3DFkjhSFJH6FU=",
+      "hash": "sha256-Z\/0GT1QfjMCWzlcp5dn5AByWolP8Ycv3F+jlXSky0I4=",
       "url": "ckwz\/article-5.html"
     },
     {
-      "hash": "sha256-bUhg+a+eYPI3xHMXI\/4t1ZNLqZ6Io1fqpuHgQPezkUM=",
+      "hash": "sha256-Gi4Nit9lhlKltqtD+J07TQb52aGV0EtKl2uvhux2Jbs=",
       "url": "ckwz\/article-6.html"
     },
     {
-      "hash": "sha256-1I+dBm1XBKGEJowZ1xa6UJYcIfUJpCdupvpHGT44FH8=",
+      "hash": "sha256-D7+Vq6s4Z1ILy2aiY\/KgEy\/T+C8Xl7ht9wba2JuSsDg=",
       "url": "ckwz\/article-7.html"
     },
     {
-      "hash": "sha256-yc4ocIVptPZ76U2TkrXIWHaNPv5Gg3jpE137iemqYAk=",
+      "hash": "sha256-GPGjgKVMGEs\/YqNwXzXYoKYox2ivHUb5zEeZH97VNoU=",
       "url": "ckwz\/article-8.html"
     },
     {
-      "hash": "sha256-qMOPjL0Y0mKGLEszPag5oXeMEOhdLNEBaGPWWi2YQgU=",
+      "hash": "sha256-p3Wb9N9N08O+jq7f1QAjt\/8GDy8gYK3kYyPj3ccxBns=",
       "url": "ckwz\/article-9.html"
     },
     {
-      "hash": "sha256-k15lGsnT8JrUZe12KOGB1qfQbOGW5wN6Cb87Ic4GkVo=",
+      "hash": "sha256-HwG66KVbWe0Z94MojbscT5tbAUJ9xXtFRRY43km8Yx8=",
+      "url": "ckwz\/images\/03-001.webp"
+    },
+    {
+      "hash": "sha256-kpYqDAJx4tNO8aPZ2\/5pnDBOMJ42JIi9a3c0YTpov4g=",
+      "url": "ckwz\/images\/07-001.webp"
+    },
+    {
+      "hash": "sha256-lpzOIDzB9iOQxtcQXe2BEt75gwPa7P1mDqhxMCIyEmY=",
+      "url": "ckwz\/images\/10-001.webp"
+    },
+    {
+      "hash": "sha256-i2MUtulifhqT7fMRZ+qA5G1wZydd9WQ5ZewAXiMvHXg=",
+      "url": "ckwz\/images\/12-001.webp"
+    },
+    {
+      "hash": "sha256-fl5sRrr60Jgc2sRtHRq+yLyXuaZwy3exY+EuQCOEZSM=",
+      "url": "ckwz\/images\/15-001.webp"
+    },
+    {
+      "hash": "sha256-9OXZUwaKkt6x31TWGcRs+edSF8GokoR0SJHl4zi9iGk=",
+      "url": "ckwz\/images\/15-002.webp"
+    },
+    {
+      "hash": "sha256-NaMYS7sJX4BwO+5FJDQITq\/TJYgLTF+aQdK8YmC4IwE=",
+      "url": "ckwz\/images\/15-003.webp"
+    },
+    {
+      "hash": "sha256-hbc3toE7M\/MIUu70I+SNE2vGkgHzwpw+Zf8KWkjpNdk=",
+      "url": "ckwz\/images\/15-004.webp"
+    },
+    {
+      "hash": "sha256-Xs+lkj6kbh+7zN5s7q43xh3BGvH9+DpuTY9XZs4NHTY=",
+      "url": "ckwz\/images\/15-005.webp"
+    },
+    {
+      "hash": "sha256-GEjcOwl9fEpfjhKqEl\/bRH\/5SqH9ZXNjuLsQu9ZQTh0=",
+      "url": "ckwz\/images\/15-006.webp"
+    },
+    {
+      "hash": "sha256-ARcMYNxN5FOF7quFEhpkCDOr8gf+9huckfL0nNiVQh8=",
+      "url": "ckwz\/images\/15-007.webp"
+    },
+    {
+      "hash": "sha256-jSZ4Ox+L0yqou9k1VC6glwIZS8m3DasrjMb5oxRMKts=",
+      "url": "ckwz\/images\/17-001.webp"
+    },
+    {
+      "hash": "sha256-JJpAeYiPMTdEnFTHawjh71tedElNbIKKHAvY3\/yl6MM=",
+      "url": "ckwz\/images\/17-002.webp"
+    },
+    {
+      "hash": "sha256-dJxh3DElT8jqeKYpTVfOlY\/Qarc6miar7AtMd6EjXv0=",
+      "url": "ckwz\/images\/17-003.webp"
+    },
+    {
+      "hash": "sha256-gE\/qJy4FbPs6ZtQ2Qmmln7eluVSw0fElkMb93iBCFek=",
+      "url": "ckwz\/images\/17-004.webp"
+    },
+    {
+      "hash": "sha256-DP0JTvYQe8yQplwJKwzJLqkJMnFSf65o2hmOpR48r54=",
+      "url": "ckwz\/images\/17-005.webp"
+    },
+    {
+      "hash": "sha256-O46iM0sIBlpHDSoo6FzcjFwB\/OP04G++3yjoKI4s1Bc=",
+      "url": "ckwz\/images\/17-006.webp"
+    },
+    {
+      "hash": "sha256-dfDfs+1lCZ9iuUtrZOTA3xBsUb3yBh\/asrSNs8DlxqU=",
+      "url": "ckwz\/images\/17-007.webp"
+    },
+    {
+      "hash": "sha256-yjrwcUz6hVC7b0CK+BpuvwYzowwOegw4zs2VenbKKkk=",
+      "url": "ckwz\/images\/17-008.webp"
+    },
+    {
+      "hash": "sha256-LlF6oyrmCX7XkhpYB1WiDiXwude7xlNGVEcZ1paPOsU=",
       "url": "ckwz\/main.html"
+    },
+    {
+      "hash": "sha256-EJLDzjPdc37dAueAJj8Udr8YJ42BgXr2QD32hA+ANKs=",
+      "url": "ckwz\/markedjs\/marked.min.js"
+    },
+    {
+      "hash": "sha256-W4QU42zWPRVLkL6rZ+XjOZx0Oa\/5f0tVZ2EiT4F29lc=",
+      "url": "ckwz\/mathjax\/es5\/a11y\/assistive-mml.js"
+    },
+    {
+      "hash": "sha256-zAXtycnq0blyQQ0OfBuGEcVlqH\/lE4IrzpQmiVTQNGM=",
+      "url": "ckwz\/mathjax\/es5\/a11y\/complexity.js"
+    },
+    {
+      "hash": "sha256-hymwm38jknxySgpQKwSsst8JQxCbt1YCwm22jLh2Q6w=",
+      "url": "ckwz\/mathjax\/es5\/a11y\/explorer.js"
+    },
+    {
+      "hash": "sha256-Nm6Uy\/PKSThkE9ZKkQ7PXbAYRJ++0DJ1+T1vLoHVxZY=",
+      "url": "ckwz\/mathjax\/es5\/a11y\/semantic-enrich.js"
+    },
+    {
+      "hash": "sha256-pB3EhwN7ddba51Z342\/i8D0dJoTyMtlvBCKhGzUFFmA=",
+      "url": "ckwz\/mathjax\/es5\/a11y\/sre.js"
+    },
+    {
+      "hash": "sha256-MOfT8jHlyGsMbs3Cg+W28qRtbd7hQHRaBQvVzP5is+8=",
+      "url": "ckwz\/mathjax\/es5\/adaptors\/liteDOM.js"
+    },
+    {
+      "hash": "sha256-RNnCn3fYlTfgJNFl4sDX6YGpjXXtU7bCNvrIme1jGrs=",
+      "url": "ckwz\/mathjax\/es5\/core.js"
+    },
+    {
+      "hash": "sha256-GbE25F7YLmkKn\/mac5LnE987RTiiN1NKS8uhfcJa6Ec=",
+      "url": "ckwz\/mathjax\/es5\/input\/asciimath.js"
+    },
+    {
+      "hash": "sha256-Zckyd9mAhg80NBESxZUgudJ0XNRigNnC\/gNnGLgmYk0=",
+      "url": "ckwz\/mathjax\/es5\/input\/mml.js"
+    },
+    {
+      "hash": "sha256-kO8PzwAqN8tss9HxFIzqS\/y+d\/mymCYrJgyHKgZu+XQ=",
+      "url": "ckwz\/mathjax\/es5\/input\/mml\/entities.js"
+    },
+    {
+      "hash": "sha256-F+jxoub89f4TdpMY8qDuZGvWC2QYXkQBIHFl8GjmH\/c=",
+      "url": "ckwz\/mathjax\/es5\/input\/mml\/extensions\/mml3.js"
+    },
+    {
+      "hash": "sha256-OKy9XeTdAmDqplesNbqmzMJtrMPOyKEIVhLw9XdEdmM=",
+      "url": "ckwz\/mathjax\/es5\/input\/mml\/extensions\/mml3.sef.json"
+    },
+    {
+      "hash": "sha256-hHnexq8g0B7MqPl4VgnG2A\/54\/wv9OA4QAYy54zsbFE=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex-base.js"
+    },
+    {
+      "hash": "sha256-3naxUTVTBL3oIX2AViZNnCvsL0est\/\/U0ULL4U9bADU=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex-full.js"
+    },
+    {
+      "hash": "sha256-+mUkxbFsIL7T8EDJgz6Ix7irJf\/piK+c2oOVAWoLZDw=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex.js"
+    },
+    {
+      "hash": "sha256-N7RJZYk9r7QkgR86eHGKuiz9RQziqTRLU6Wn4k8odKc=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/action.js"
+    },
+    {
+      "hash": "sha256-tEZh\/BNKW1OtPvW\/TVh+m0Eul0Ic8z4NqyCV6g6KNJE=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/all-packages.js"
+    },
+    {
+      "hash": "sha256-Yk1ZuLhYXT1pqBBrh7rGL4oklbbK6nkGoljOHxX\/HqQ=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/ams.js"
+    },
+    {
+      "hash": "sha256-fcclbrxYIjec359QRVkwnZfF8m4J4hUNJd1G41pqz5Q=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/amscd.js"
+    },
+    {
+      "hash": "sha256-dla8Rxy3WkMWf2vesoTJXzIzF4k9Jt9M6qZ21Amsnb8=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/autoload.js"
+    },
+    {
+      "hash": "sha256-c9IIo0Je0n3qftYfWYS0Osz7qJSbrXB30+rEfmaLp2Q=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/bbox.js"
+    },
+    {
+      "hash": "sha256-1ncf7gdy2yZXeWyNDiDhh4uzI39tPtHoKOGDSk\/3Q8o=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/boldsymbol.js"
+    },
+    {
+      "hash": "sha256-KrsDLKDq\/5+yMiootdFLoFjnk00+VpdMVfV0BZ6Qekw=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/braket.js"
+    },
+    {
+      "hash": "sha256-R8RuARlJ8HAO0CaYsaf8JDzA36lSnkmTXkXuXgkpm9o=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/bussproofs.js"
+    },
+    {
+      "hash": "sha256-DSY+zyZx0cwTE1uLSvzcpNQBUamupRtpQC5ord5M+Mk=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/cancel.js"
+    },
+    {
+      "hash": "sha256-nBHgZE2r21rfkGWt739iJDQOrsuW5Ip86aJ948cFbzw=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/cases.js"
+    },
+    {
+      "hash": "sha256-oeS+HiDRkKVTx0eWBUM19fd5BBTeuWbNyKeOlBooo1E=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/centernot.js"
+    },
+    {
+      "hash": "sha256-f9yPfNoWMPNczVeTeboErdnexQxmzrvAWksSkCezJDU=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/color.js"
+    },
+    {
+      "hash": "sha256-2cDjljT0Pw4pxtboKjYk4J+YNXR\/rlulYVZmD9Sqt5s=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/colortbl.js"
+    },
+    {
+      "hash": "sha256-MMCcoZtdd4wXGMR+49drCjAd0gQPEfC0rjstWdZ\/\/iE=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/colorv2.js"
+    },
+    {
+      "hash": "sha256-ptRgTL06fnuWkesQgpHd0Ak7l1A1U1dHjGtjeq0NVBk=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/configmacros.js"
+    },
+    {
+      "hash": "sha256-9CW4Na605Dc7YXa2IlkNcmkvGoXwUBjhA1+\/z8O+GEI=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/empheq.js"
+    },
+    {
+      "hash": "sha256-iAT3VvNplGkZw4j1h\/gM8tH9kVH3btN1cNAa+Nf7P0w=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/enclose.js"
+    },
+    {
+      "hash": "sha256-2NXs11q8Qwam1YlELfpmpDRd7hKINHWRvdrxlVE4gWM=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/extpfeil.js"
+    },
+    {
+      "hash": "sha256-n1WvJWYEuJp5gLn5A8bzPOPC0OJ5\/TR7mkM\/5MWN55Q=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/gensymb.js"
+    },
+    {
+      "hash": "sha256-42R8hI8mrSKNBwQ\/HmPFamRtqdIKbA8YCkBn+p4Q+sw=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/html.js"
+    },
+    {
+      "hash": "sha256-BCctaaC2R4PNW2aCDW+CIO5RBAnQsSw4YmQEvp7ZaJw=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/mathtools.js"
+    },
+    {
+      "hash": "sha256-rsLh4cQjEpzz0v6GmAZCM1En0RYXNP\/kfdme1nYDhic=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/mhchem.js"
+    },
+    {
+      "hash": "sha256-pBZppK6SSrg8vD0I+VrpBJCjPNZJ7YZeg2dQEbhwirk=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/newcommand.js"
+    },
+    {
+      "hash": "sha256-kxejOwDhFOZ5uzzwffBhAjQhMUEqPaztJbcz2jNPLM0=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/noerrors.js"
+    },
+    {
+      "hash": "sha256-uQ7Pg4pvU2OyYKTdTpOYEquvBi+RI0\/iD9Y9HH6IpD8=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/noundefined.js"
+    },
+    {
+      "hash": "sha256-g9WtQ+pHi6+FXg75RW1j0tc10Qx4q3VEAZ4MsLgIOoM=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/physics.js"
+    },
+    {
+      "hash": "sha256-1Qj4I8LPOVCb3QiPbdF\/3iC0gaix1wKqJAYaAPOABsM=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/require.js"
+    },
+    {
+      "hash": "sha256-olm4bJ9J\/qCKu8Bb9OXtUQ5lhwudfRJ0BOhIZJO4rUA=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/setoptions.js"
+    },
+    {
+      "hash": "sha256-oUB\/C6ar3fU+0wSKrux9UpDfohOHgYFnn0pixgRRV4Q=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/tagformat.js"
+    },
+    {
+      "hash": "sha256-bqpMk4FFpqzgQoBrLQxxDI1NgGOGyX6dDsDG1uX8MM8=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/textcomp.js"
+    },
+    {
+      "hash": "sha256-zXg\/BI9k9qN1DXFq8OEO0vZTnNGB2s8SBOMj4uQb1kA=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/textmacros.js"
+    },
+    {
+      "hash": "sha256-kD59DRHV1jnrE5Mf09p41Ju\/nFm1foKpRdqft7cQE30=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/unicode.js"
+    },
+    {
+      "hash": "sha256-QzXXImcbdxhtZJDjJq2tX3J+0tuVTer+zi0QgDy2UaE=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/upgreek.js"
+    },
+    {
+      "hash": "sha256-\/a+s48E9TyqeMBO\/mG\/KBNYxdcae7JmxdwXwBqZSjcc=",
+      "url": "ckwz\/mathjax\/es5\/input\/tex\/extensions\/verb.js"
+    },
+    {
+      "hash": "sha256-pvqmS54Zv9Pua8WSE2zp+qBspNDHleumFLGn7qiTaj0=",
+      "url": "ckwz\/mathjax\/es5\/latest.js"
+    },
+    {
+      "hash": "sha256-pBO8GMd+2ntdKdRMTTMR3nh0LLXJdRtw4psBPqz7tW8=",
+      "url": "ckwz\/mathjax\/es5\/loader.js"
+    },
+    {
+      "hash": "sha256-3sN7JrncRK5BDMb4EuNQHrkt9zStP2UW\/wI\/YQDNZ7g=",
+      "url": "ckwz\/mathjax\/es5\/mml-chtml.js"
+    },
+    {
+      "hash": "sha256-9tschYLKVGlcXyyNnw+Z0zECwvILHICkmrGsYF4DDNw=",
+      "url": "ckwz\/mathjax\/es5\/mml-svg.js"
+    },
+    {
+      "hash": "sha256-o+b49p+3p4b0tNCPDxd4E4GZbsLCeKD0BvnoEv+oCbI=",
+      "url": "ckwz\/mathjax\/es5\/node-main.js"
+    },
+    {
+      "hash": "sha256-KHAipWcssCEIEE32oMTRriGcydnlPgbMuMAjxH\/4Z84=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml.js"
+    },
+    {
+      "hash": "sha256-tSW3HkGn\/bEk72orRNUlDLf8L1bX5zSUrQPQkNDk8oo=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/tex.js"
+    },
+    {
+      "hash": "sha256-PeeE0HufqPEEwQkoqHjuh5zzMFyuUZXLpmPJwrsBles=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_AMS-Regular.woff"
+    },
+    {
+      "hash": "sha256-rwRUKynqrARVChQMXxdgpkl4OYlCbyVAhVv0FXgZNn0=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Calligraphic-Bold.woff"
+    },
+    {
+      "hash": "sha256-Jmg78gH7JYoiN9l1RhbenU7PTMHNOd0ZAkdt99dfHRY=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Calligraphic-Regular.woff"
+    },
+    {
+      "hash": "sha256-chkhurDQAev\/AgbCTLXebKE2RnvxhDp6oyAwugYdHpI=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Fraktur-Bold.woff"
+    },
+    {
+      "hash": "sha256-hwZz33LnD4fJGloxfVWMLDtUOSJkrXm7rcbUJK6HZf4=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Fraktur-Regular.woff"
+    },
+    {
+      "hash": "sha256-iLmMrTaIkV5Q2lVVP\/atGF4NzhNLR\/F26RsQD4qbF1w=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Main-Bold.woff"
+    },
+    {
+      "hash": "sha256-NVJU25yhCgmjtfCSnXTrRnD0T76GTAdSagYhPgoMr2w=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Main-Italic.woff"
+    },
+    {
+      "hash": "sha256-HLHDnqZC8mpN\/tIwtK6hw8IYaJQh9unAp8GBFpPE+gc=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Main-Regular.woff"
+    },
+    {
+      "hash": "sha256-jqjbsbAub3MPVbTLXUE7eFufXDmAfQoPp9ogaggkpFc=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Math-BoldItalic.woff"
+    },
+    {
+      "hash": "sha256-oAm+pAT3pQDe1I+LmtnPFuElBLMZXdniWXUom4JWsPA=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Math-Italic.woff"
+    },
+    {
+      "hash": "sha256-wB0zIeibQDxLgRqhU8TmGO2jQh+S2KByoCyNGQeCoZE=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Math-Regular.woff"
+    },
+    {
+      "hash": "sha256-MnkhBLXvae3tkFttFZjtBdgIdoTTjnqU1S48OLoW9H4=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_SansSerif-Bold.woff"
+    },
+    {
+      "hash": "sha256-\/G3fXfQCsmPPsViu2OiZclQsNLcZzYex2zBGGYX3vVs=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_SansSerif-Italic.woff"
+    },
+    {
+      "hash": "sha256-tBgTbjs4S6qt7LcL08SKjamCUhATCyiX24CMRO\/Ig8s=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_SansSerif-Regular.woff"
+    },
+    {
+      "hash": "sha256-r5b2fXrM9f0qSmgtC5+LM5+Opv40wxDBaUyLp\/bdyW8=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Script-Regular.woff"
+    },
+    {
+      "hash": "sha256-xJgQtT7MDYfYAodixRiSQZfdnT+QWwj5nqJBMBCFucs=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Size1-Regular.woff"
+    },
+    {
+      "hash": "sha256-MOiJtYy8Ua37sDirGpbcQCWqNUKjz\/dxL8VezlEGdeI=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Size2-Regular.woff"
+    },
+    {
+      "hash": "sha256-XNpBVjoJW9cMeOLdoT0PjLkixxyQ\/\/0KAETGUXOmboM=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Size3-Regular.woff"
+    },
+    {
+      "hash": "sha256-O8bsqufs9vjX+OoHvdusqGAeLLbonWrvWOeNn22KOY8=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Size4-Regular.woff"
+    },
+    {
+      "hash": "sha256-xW2o1p8aAgi44HA2VsMmS23XSL1FJSTIKwOFtg9qaME=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Typewriter-Regular.woff"
+    },
+    {
+      "hash": "sha256-NuDXLYp6\/GlqPnpcc2mAdjRkDemwIle8pEe98SYiGic=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Vector-Bold.woff"
+    },
+    {
+      "hash": "sha256-crxXM4bdHUjFu9KGMCyp40AMXrDymOfPv5RbnQj8aI8=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Vector-Regular.woff"
+    },
+    {
+      "hash": "sha256-SB45BCUIrjE6YGGK8eNxRquT6TJMmOTHi48X\/lXUHgs=",
+      "url": "ckwz\/mathjax\/es5\/output\/chtml\/fonts\/woff-v2\/MathJax_Zero.woff"
+    },
+    {
+      "hash": "sha256-b97lmbJAhR\/SezEBfhoYgC2ZdDrE+uggSZiZcXZkdgk=",
+      "url": "ckwz\/mathjax\/es5\/output\/svg.js"
+    },
+    {
+      "hash": "sha256-avuOf09\/GSVcSxEfSgDAZxa3Dqm5d1FhJ8BU53mdLaQ=",
+      "url": "ckwz\/mathjax\/es5\/output\/svg\/fonts\/tex.js"
+    },
+    {
+      "hash": "sha256-gzEYh7BpR2pqTQxq\/n+OVQdchbRLApWIc5wNg1\/JErg=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/base.json"
+    },
+    {
+      "hash": "sha256-3XDZWLC63ROST0zmZ4SSv8y3XE+1ijI\/paj7wew\/Rnc=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/ca.json"
+    },
+    {
+      "hash": "sha256-h2J2OJr+eLiHDYYaV8mNDGwHPWgSzEKQJPNpoQ64Q2E=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/da.json"
+    },
+    {
+      "hash": "sha256-iectG5Tqjgt4HNNBuy\/GbY1amdxft6wEaE0+McYA1g4=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/de.json"
+    },
+    {
+      "hash": "sha256-GdmzCdwNJdK94tMTC9N3K218P4MW672FMGvvVayJsqc=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/en.json"
+    },
+    {
+      "hash": "sha256-V0IbWItqgJAIvQoMUnxs0bPVdDGUnlKM21qVz2agD6g=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/es.json"
+    },
+    {
+      "hash": "sha256-665sGOiODGSkIqZOWGKkzQ1Y81cjfxNTjMvZz\/JvdI0=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/fr.json"
+    },
+    {
+      "hash": "sha256-bvbzXYNZDMDBDejdM2f5Hy2mVGF3AzAFrvECBxAwrP8=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/hi.json"
+    },
+    {
+      "hash": "sha256-scNEnZib\/RazD6NhN7f1Ly1ISCbeuLL7QEQhURkRoEA=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/it.json"
+    },
+    {
+      "hash": "sha256-ZxNGPy8feB2M3xPJc3flaHy44ukGDMwD1J4EwVoQWb4=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/nb.json"
+    },
+    {
+      "hash": "sha256-NfJT5ZkS0uw70IvkJxRi\/FiQTV2nTqNo4HPCpZPrlRY=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/nemeth.json"
+    },
+    {
+      "hash": "sha256-ttFbYggZZfntB65rbBr7G8KhR2z2I5LTAq6Lbez2nWA=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/nn.json"
+    },
+    {
+      "hash": "sha256-MSKJk+fe7CgcLCjyi82uCSCRJbK8SWyJnli+AL754us=",
+      "url": "ckwz\/mathjax\/es5\/sre\/mathmaps\/sv.json"
+    },
+    {
+      "hash": "sha256-hPTsSQQbEqba3F0Wibq8gPQXQ1z8vYkOxxLjdBUru4g=",
+      "url": "ckwz\/mathjax\/es5\/startup.js"
+    },
+    {
+      "hash": "sha256-5djIbKva7z6\/AQi2M4xCDAIfGcTtfjYpq6JmIC9Seac=",
+      "url": "ckwz\/mathjax\/es5\/tex-chtml-full-speech.js"
+    },
+    {
+      "hash": "sha256-kbAFUDxdHwlYv01zraGjvjNZayxKtdoiJ38bDTFJtaQ=",
+      "url": "ckwz\/mathjax\/es5\/tex-chtml-full.js"
+    },
+    {
+      "hash": "sha256-Cm3tWrvOEzMWWN0jnzQ4Kr0GSSx0txth6MqoES7FX6U=",
+      "url": "ckwz\/mathjax\/es5\/tex-chtml.js"
+    },
+    {
+      "hash": "sha256-MASABpB4tYktI2Oitl4t+78w\/lyA+D7b\/s9GEP0JOGI=",
+      "url": "ckwz\/mathjax\/es5\/tex-mml-chtml.js"
+    },
+    {
+      "hash": "sha256-Hxen7ZX\/Sksn0Wvw+1+AuRVobuhnPoKYOih27PjLn64=",
+      "url": "ckwz\/mathjax\/es5\/tex-mml-svg.js"
+    },
+    {
+      "hash": "sha256-pDVP+U\/YaK6gzG6qp5pX\/aBYhkb8Ru43AKNJ7goRy+Y=",
+      "url": "ckwz\/mathjax\/es5\/tex-svg-full.js"
+    },
+    {
+      "hash": "sha256-1CldwzdEg2k1wTmf7s5RWVd7NMXI\/7nxxjJM2C4DqII=",
+      "url": "ckwz\/mathjax\/es5\/tex-svg.js"
+    },
+    {
+      "hash": "sha256-ZMtTU\/yXZrdgmhSAbbAw\/mPuIfdrMfpE0v4xRecSJH4=",
+      "url": "ckwz\/mathjax\/es5\/ui\/lazy.js"
+    },
+    {
+      "hash": "sha256-qPZaEwV0qXmqZ6wi3WGDRqz7d\/+pfN4RJJiwl7zxlw0=",
+      "url": "ckwz\/mathjax\/es5\/ui\/menu.js"
+    },
+    {
+      "hash": "sha256-n+9I2GgneovBhS97p5azPq2BLTiRanExsKKepIlhpqQ=",
+      "url": "ckwz\/mathjax\/es5\/ui\/safe.js"
     },
     {
       "hash": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
@@ -121,7 +673,7 @@
       "url": "css\/main.css"
     },
     {
-      "hash": "sha256-yzew3J\/PYmTpo2jTCpjwYdg\/X92M9Rh+KPjyY1UU4gA=",
+      "hash": "sha256-TupxA247R7ki7KCBBtLkXmhtZQBE968rGNOX71S0\/9c=",
       "url": "Data\/000.md"
     },
     {
@@ -133,12 +685,8 @@
       "url": "Data\/002.md"
     },
     {
-      "hash": "sha256-ypeBEsobvcr6wjGzmiPcTaeG7\/gUfE5yuYB3ha\/uSLs=",
+      "hash": "sha256-2VYXHn9QcLdINirL\/VkvHLqfbtINJX22o\/g1rzDX9YU=",
       "url": "Data\/003.md"
-    },
-    {
-      "hash": "sha256-NpardGGArsEr\/gELpo8+V4znz0uMabEZaxysx7jiXPc=",
-      "url": "Data\/cards.md"
     },
     {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
@@ -981,17 +1529,17 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Km33nCQKkx5kY2Ys4AzGG5+Nn2ZWyQTxPgrNJiGaHJI=",
+      "hash": "sha256-2uvIcr4oYnWbBTPTjneMi7eNz99KIZMuKUbn27PSuis=",
       "url": "_framework\/213.0201_NT48.wasm"
     },
     {
-      "hash": "sha256-Cfteng3dM1t4kN5KeF9L2NrrwIE1Z2uGS7+vzmm3pjk=",
+      "hash": "sha256-K5E52j+XEnS6kSviSFG5bm+6MTRyZqq\/ipPLaay8XKk=",
       "url": "_framework\/213.0201_NT48.pdb"
     },
     {
-      "hash": "sha256-\/mApCqkoLDAKSk00iWk\/9+mMiQ0nDAL66OTa1mggYiE=",
+      "hash": "sha256-eBBd6xthHEDJ5F\/4dXXvla7gX3DKOmLEc5bjr5ujL8k=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "DI6u\/1gm"
+  "version": "uJrXd3cL"
 };
