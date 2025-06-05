@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "213.0201_NT48",
   "resources": {
-    "hash": "sha256-ZWJTwzRzHiFlN4yExcXqNGwkce3z+8+aLFQp8iiLubU=",
+    "hash": "sha256-8WJubHEo0qPTtBLtUFupoFPsXo0tvgjK34pGxRwGP1I=",
     "jsModuleNative": {
       "dotnet.native.8.0.15.w89k26rfrp.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-BeLfFpg9iS3DkEdywsYY7sV6ML3knqkMaMq0JBEbWlw=",
       "netstandard.wasm": "sha256-VkjUtJ6DK5bFTc2JwwGHmQY3tBcNSC7zMSJXuiXcnJA=",
       "System.Private.CoreLib.wasm": "sha256-VIQEPUSb48N39LR+ncGDP5xU02xuRbyZU8MhMho26wQ=",
-      "213.0201_NT48.wasm": "sha256-2uvIcr4oYnWbBTPTjneMi7eNz99KIZMuKUbn27PSuis="
+      "213.0201_NT48.wasm": "sha256-kxBIwkZeEKHPPgpx/VzgbeEFqhq9EZjejqr2ujwwKR0="
     },
     "pdb": {
-      "213.0201_NT48.pdb": "sha256-K5E52j+XEnS6kSviSFG5bm+6MTRyZqq/ipPLaay8XKk="
+      "213.0201_NT48.pdb": "sha256-Q8USeq+/6LlVRM0RTiQC3PdD+wkD8KVfjBpMivokGts="
     }
   },
   "cacheBootResources": true,

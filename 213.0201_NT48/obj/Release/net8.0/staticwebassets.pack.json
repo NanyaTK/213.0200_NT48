@@ -41,16 +41,60 @@
       "PackagePath": "staticwebassets/Data/003.md"
     },
     {
-      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/Data/cards.md",
-      "PackagePath": "staticwebassets/Data/cards.md"
-    },
-    {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/banner.odg",
       "PackagePath": "staticwebassets/banner.odg"
     },
     {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/banner.png",
       "PackagePath": "staticwebassets/banner.png"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/01-main.css",
+      "PackagePath": "staticwebassets/blog/01-main.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/b0.htm",
+      "PackagePath": "staticwebassets/blog/b0.htm"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/b0_files/01-main.css",
+      "PackagePath": "staticwebassets/blog/b0_files/01-main.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/b0_files/05-nt48.webp",
+      "PackagePath": "staticwebassets/blog/b0_files/05-nt48.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/b0_files/31-blog.css",
+      "PackagePath": "staticwebassets/blog/b0_files/31-blog.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/b0_files/modalPrompt.html",
+      "PackagePath": "staticwebassets/blog/b0_files/modalPrompt.html"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/b2.htm",
+      "PackagePath": "staticwebassets/blog/b2.htm"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/blog/31-blog.css",
+      "PackagePath": "staticwebassets/blog/blog/31-blog.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/blog/33-bart.css",
+      "PackagePath": "staticwebassets/blog/blog/33-bart.css"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/images/02-01.webp",
+      "PackagePath": "staticwebassets/blog/images/02-01.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/images/02-02.webp",
+      "PackagePath": "staticwebassets/blog/images/02-02.webp"
+    },
+    {
+      "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/blog/images/02-03.webp",
+      "PackagePath": "staticwebassets/blog/images/02-03.webp"
     },
     {
       "Id": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/ckwz/11-ckwz.css",
