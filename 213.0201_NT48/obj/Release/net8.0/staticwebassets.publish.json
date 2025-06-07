@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x26OCyW4hI9tXe7cfMaJq9PEMyFH08tZzqtkLy4wKGI=",
+  "Hash": "S9je0P7RqSa/0s/vePBO7JT+bfTDEn/yCUbTuWAedCE=",
   "Source": "213.0201_NT48",
   "BasePath": "/",
   "Mode": "Root",
@@ -6000,6 +6000,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/icon-512.png"
+    },
+    {
+      "Identity": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/images/005-01.png",
+      "SourceId": "213.0201_NT48",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/005-01.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/005-01.png"
     },
     {
       "Identity": "/workspaces/213.0200_NT48/213.0201_NT48/wwwroot/index.html",
